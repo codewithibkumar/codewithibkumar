@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m **ibkumar**
 - 👀 I’m interested in **learning technical stuffs** and **building real-world applications**
-- 🌱 I’m currently learning (mostly) **MicroServices** & **Spring Boot**
-- 💞️ I’m looking to collaborate on **some awesome JS or Android libraries, Java Libraries**
+- 🌱 I’m currently learning (mostly) **Spring Boot** && **MicroServices**
+- 💞️ I’m looking to collaborate on **some awesome JS ,Android libraries and Java Libraries**
 - 📫 How to reach me? Take a look **kumar.agstya@gmail.com**
 
 ![](https://komarev.com/ghpvc/?username=codewithibkumar&color=blue&label=Views:)

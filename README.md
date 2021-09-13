@@ -1,16 +1,17 @@
-### Hi there 👋
+### 👨‍💻 Profile
 
-<!--
-**codewithibkumar/codewithibkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m **ibkumar**
+- 👀 I’m interested in **learning technical stuffs** and **building real-world applications**
+- 🌱 I’m currently learning (mostly) **MicroServices** & **Spring Boot**
+- 💞️ I’m looking to collaborate on **some awesome JS or Android libraries, Java Libraries**
+- 📫 How to reach me? Take a look **kumar.agstya@gmail.com**
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=codewithibkumar&color=blue&label=Views:)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github-readme-stats.vercel.app/api?username=codewithibkumar&show_icons=true&count_private=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithibkumar&show_icons=true&count_private=true&theme=radical" width="50%" />
+</a>
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithibkumar&count_private=true&theme=radical&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithibkumar&count_private=true&theme=radical&layout=compact" width="42%" />
+</a>

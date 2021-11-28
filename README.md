@@ -94,4 +94,4 @@ Reserved repository to list a little of my `academic life.`:heart_eyes:
 #### Cloud Computing
 
 - Deploy on Amazon EC2: High availability and scalability of an application. 
-- Amazon S3: Manipulate and store objects in the cloud. _School.
+- Amazon S3: Manipulate and store objects in the cloud.

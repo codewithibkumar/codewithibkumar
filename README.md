@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m **ibkumar** <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="30px">
 - 👀 I’m interested in **learning technical stuffs** and **building real-world applications**
-- 🌱 I’m currently learning (mostly) **Android, Spring Boot** && **MicroServices**
+- 🌱 I’m currently learning (mostly) Spring Boot** && **MicroServices**
 - 💞️ I’m looking to collaborate on **some awesome JS ,Android libraries and Java Libraries**
 - 📫 How to reach me? Take a look **http://youtube.com/c/ibkumar**, 
 
